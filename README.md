@@ -22,4 +22,4 @@ Global hotkey for toggling Mic.
 
 Control + Option + Command + Space
 
-If you want to edit this do it in the 1shortcuts.json1 file
+If you want to edit this do it in the `shortcuts.json` file
