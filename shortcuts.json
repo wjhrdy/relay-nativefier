@@ -1,0 +1,11 @@
+[
+    {
+        "key": "Command+Control+Option+Space",
+        "inputEvents": [
+            {
+                "type": "keyDown",
+                "keyCode": "Space"
+            }
+        ]
+    }
+]
