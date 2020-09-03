@@ -1,4 +1,4 @@
-# Relay App
+# Relay App (Unofficial)
 This is a few build files to create a mac app out of dash.relaygo.com.
 I built this so that I can quickly talk to and hear from my wife in the same house while working from home without yelling.
 
