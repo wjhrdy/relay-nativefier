@@ -1,4 +1,4 @@
-# Relay App
+# Relay App (Unofficial)
 This is a few build files to create a mac app out of dash.relaygo.com.
 I built this so that I can quickly talk to and hear from my wife in the same house while working from home without yelling.
 
@@ -22,4 +22,4 @@ Global hotkey for toggling Mic.
 
 Control + Option + Command + Space
 
-If you want to edit this do it in the 1shortcuts.json1 file
+If you want to edit this do it in the `shortcuts.json` file
