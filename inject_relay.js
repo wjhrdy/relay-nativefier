@@ -10,7 +10,6 @@ function triggerMouseEvent (node, eventType) {
 document.addEventListener('keydown', function (e) {
     let mic = document.querySelector('.mic');
     if (e.keyCode === 32) { //  space
-        e.preventDefault();
         if (mic_hot) {
             mic_hot = false;
             triggerMouseEvent (mic, "mouseup");
